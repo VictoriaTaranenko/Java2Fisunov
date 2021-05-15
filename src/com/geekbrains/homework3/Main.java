@@ -12,7 +12,6 @@ public class Main {
         String[] util = {"Яблоко","Яблоко","Яблоко","Сыр","Сыр","Сыр","Сыр",
                 "Говядина","Свинья","Свинья"};
 
-
         filterWordsByCounts(util);
     }
 
